@@ -16,7 +16,7 @@ function hideEmotes() {
     emotes.each(function(){
         var emoteAlt = this.getAttribute("alt");
         var found = false;
-        if(emoteAlt.includes("JKanStyle"))
+        if(emoteAlt.includes("JKanStyle") || emoteAlt.includes("LUL"))
             found = true;
         if(found){
             $(this).hide();
