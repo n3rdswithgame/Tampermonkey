@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BanKanStyle
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  Fuck bad emotes
 // @author       N3rdsWithGame
 // @match        *.twitch.tv/*
