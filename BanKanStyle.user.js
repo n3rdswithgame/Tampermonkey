@@ -9,7 +9,8 @@
 // ==/UserScript==
 
 var hideList = new Array("JKanStyle",
-                         "LUL");
+                         "LUL",
+                         "popesKanStyle");
 
 function hideEmotes() {
     var emotes = $(".chat-line__message--emote");
